@@ -8,7 +8,7 @@ experienced developer, this will not be the first time you've heard about Model
 View Controller. In this article you'll need to stay focused, because there will
 be several attempts to show you why Liferay's implementation of Model View
 Controller is different, when instead you're hearing about another MVC
-framework. With that in mind, let's get back to the *Medial Vein Constriction*
+framework. With that in mind, let's get back to the *Modal View Controller*
 pattern we were discussing.
 
 If there are so many implementations of MVC frameworks in Java, why did Liferay
